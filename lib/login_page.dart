@@ -26,7 +26,7 @@ class LoginPage extends StatelessWidget {
         style: TextStyle(
           fontFamily: "Poppins",
           fontWeight: FontWeight.bold,
-          fontSize: 18
+          fontSize: 18),
         ),
         //email
         //password
